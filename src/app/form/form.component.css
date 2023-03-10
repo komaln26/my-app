@@ -1,0 +1,12 @@
+.example-button-row button {
+  margin-right: 8px;
+}
+
+.example-disabled {
+  display: inline-block;
+}
+
+/* Define a white background color for the div container */
+div.container {
+  background-color: white;
+}
