@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "React",
+      "password": "sadwf",
+      "email": "react@js.com",
+      "phone": 3000,
+      "country": "localhost",
+      "id": 1
+    },
+    {
+      "name": "Angular",
+      "password": "arwqw",
+      "email": "angular@js.com",
+      "phone": "4200",
+      "country": "localhost",
+      "id": 2
+    },
+    {
+      "name": "Javascript",
+      "password": "wqrwe",
+      "email": "java@js.com",
+      "phone": 214234,
+      "country": "w3schools",
+      "id": 3
+    }
+  ]
+}
